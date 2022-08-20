@@ -1,4 +1,3 @@
-# FigmaGuncelleme
+
 # FIGMA
-# FIGMA
-# FigmaProje
+
